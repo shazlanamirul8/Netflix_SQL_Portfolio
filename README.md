@@ -2,7 +2,7 @@
 Beginner SQL queries by using Netflix Movies and TV Shows dataset from Kaggle
 
 ## Netflix Table Creation
-This project demonstrate on how to create a new table on MYSQL for the Netflix dataset and upload into it.
+This project demonstrate on how to create a new table on MYSQL for the Netflix dataset and provide 5 sample queries for beginners like me.
 
 ## Table Structure
 CREATE TABLE netflix (
