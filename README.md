@@ -86,3 +86,6 @@ This syntax will depict top 5 countries with the most movies/tv shows.
 - Grouping and counting data with GROUP BY and COUNT()
 - Sorting results with ORDER BY
 - Understanding data types and limitations (VARCHAR vs DATE/numeric)
+
+## The Dataset
+The dataset used for this project is available here: [netflix_titles.csv](netflix_titles.csv)
