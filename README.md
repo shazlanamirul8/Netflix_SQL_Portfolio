@@ -31,3 +31,6 @@ SELECT * FROM netflix;
 ## Query Result
 This simple query will show us the entire data in table form.
 
+## Screenshot of Query Result
+![Query Result](query_result.png)
+
