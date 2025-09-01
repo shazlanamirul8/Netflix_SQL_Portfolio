@@ -22,6 +22,9 @@ CREATE TABLE netflix (
 ## Explanation
 Usually, 'date_added' would use the DATE data type. However, in this Netflix dataset, the format does not align with the DATE format because it spells out the month, so VARCHAR is used instead.
 
+## Screenshot of table creation
+![Table Creation Screenshot](create_table_sql.png)
+
 ## Sample Query
 SELECT * FROM netflix;
 
